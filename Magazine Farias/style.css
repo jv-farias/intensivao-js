@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Retângulos dentro de Retãngulos 
+Conteúdo: Content
+Padding: Espaçamento Interno
+Borda: border
+Margem : Espaçamento Externo
+Display: flex
+Flex-direction: direção - column ou row
+*/
